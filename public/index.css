@@ -1,0 +1,39 @@
+#header{
+    padding-top: 7vh;
+    background-color: #2b2b2b;
+    height: 30vh;
+    width: 100vw;
+}
+#header h1{
+    color: #fdfdfd;
+    text-align: center;
+}
+#add-todo{
+    background-color: #fa3465;
+    height: 5.8vh;
+    width: 10vw;
+    color: #fdfdfd;
+    display: inline-block;
+    margin-left: 2vw;
+}
+#field{
+    width: 80vw;
+    display: inline-block;
+}
+#submit-button{
+    display: inline-block;
+    width: 10vw;
+}
+.todo-list{
+    height: 100vh;
+    padding-left: 3vw;
+}
+.todo-container{
+    width: 92vw;
+    margin-left: 1vw;
+    border-style: ridge;
+    border-width: 1px;
+}
+.todo-item{
+    height: 10vh;
+}
